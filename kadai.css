@@ -1,11 +1,11 @@
         body {
           font-family: YuGothic, "游ゴシック", "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", sans-serif;
-          background-color: #ddd;
+          background-color: #FFE4B5;
           font-size: 14px;
         }
 
         header {
-          background-image: url("hana.jpg");
+          background-image: url("./image/hana.jpg");
           background-position: center center;
           background-size: cover;
           background-repeat: no-repeat;
